@@ -55,8 +55,8 @@ usersCopy3 = users[:]
 #order of the items will not change
 
 #create a tuple
-myTuple = tuple((1,2,3,4,5)) #Using constructor
-myTuple2 = ("A","B","C")
+mytuple = tuple((1,2,3,4,5)) #Using constructor
+mytuple1 = ("A","B","C")
 
 #unpack a tuple
 (one, two, three, *remaining) = myTuple
